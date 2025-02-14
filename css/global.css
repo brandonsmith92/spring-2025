@@ -1,0 +1,20 @@
+/* Colors */
+
+/*
+60% of #7441BE - Primary
+30% of #BE7441 - Secondary
+10% of #41BE74 - Accent
+*/
+
+:root {
+
+/* var(--primaryColor) !important; */
+--primaryColor: #7441BE;
+
+/* var(--primaryColor) !important; */
+--secondaryColor: #BE7441;
+
+/* var(--primaryColor) !important; */
+--accentColor: #41BE74;
+
+}
